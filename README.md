@@ -1,1 +1,1 @@
-Repositório onde serão depositados os materiais de estudo e os trabalhos da disciplina Tópicos Especiais em Sistemas de Energia II: StackStorm.
+Repositório onde serão depositados os materiais de estudo e os trabalhos da disciplina Tópicos Especiais em Sistemas de Energia II: Desenvolvimento Ágil com Python e Containers.
